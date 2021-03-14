@@ -17,3 +17,9 @@ node+node-media-server+flv.js
 浏览器访问
 http://localhost:3000/live.html
 
+
+
+*兼容性
+  >360 谷歌 火狐正常显示实时页面
+  >IE 为兼容，原因未知
+
